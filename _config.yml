@@ -1,0 +1,50 @@
+# Setup
+title:               Grand Prix Generator
+tagline:             Randomly generate an award-winning idea
+description:         Randomly generate an award-winning idea
+
+# Markdown
+
+
+# SASS
+sass:
+  sass_dir:          _sass
+  style:            compressed
+# Google Analytics
+analytics_id:  UA-108632222-1
+
+# SEO
+author:
+  name: Oli Frost
+  twitter: realolifrost
+  facebook: olifrost
+  email: us@oliandjosie.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/ogimage.png
+
+twitter:
+  username: flopstarter
+instagram:
+  username: flopstarter
+facebook:
+    username: flopstarter
+
+social:
+  name: Flopstarter
+  links:
+    - https://twitter.com/Flopstarter
+
+#google_site_verification
+#logo:
+
+# Excludes
+exclude:
+
+
+# Gems
+gems:
+  - jekyll-seo-tag
