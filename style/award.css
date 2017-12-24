@@ -4,7 +4,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 /*FONT*/
 
 body {
-    background-color: #eb1591;
+    background-color: #15B1EC;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ input {
     width: 30%;
     display: inline-block;
     margin-bottom: 0em;
-    " 
+    "
 
 }
 
@@ -103,13 +103,13 @@ img {
     text-align: center;
 }
 
-@media (max-width: 367px) { 
-    h1{ font-size:4em; }	 
+@media (max-width: 367px) {
+    h1{ font-size:4em; }
 }
 
 .reference {
 	padding-bottom: 1rem; color: #33C3F0; text-decoration: none;
 }
 .reference:hover {
-	
+
 }
